@@ -24,60 +24,60 @@
         <h2 class="escola-titulo"> Sobre a Escola</h2>
         <p class="escola-texto-um">Colégio Estadual Jorge Schimmelpfeng - Ensino Fundamental- Médio e Profissional é uma escola em Foz do Iguaçu/PR, no bairro Conjunto Libra que iniciou em 2011. Oferece cursos técnicos e ensino médio. Saiba mais abaixo e entre em contato com Colégio Estadual Jorge Schimmelpfeng - Ensino Fundamental- Médio e Profissional caso queira saber mais informações.</p>
     </div>
-    <img class="escola-imagem" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bm6g2u4wnDVbELBZ21NLpu5b0t_3vOLZrQ&usqp=CAU" alt="a e i o u.">
+    <img class="escola-imagem" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Bm6g2u4wnDVbELBZ21NLpu5b0t_3vOLZrQ&usqp=CAU" alt="image" heigh="450" width="450">
    </section>
    <section class="estudante">
-    <h2 class="estudante-titulo"> Quem são os melhores?</h2>
+    <h2 class="estudante-titulo"> Quem são os alunos?</h2>
     <div class="estudante-todos">
         <span></span>
     <div class="estudante-div">
-        <img class="estudante-imagem" src="https://i.pinimg.com/236x/be/8a/53/be8a5318c2b4ad8b3595dd8676cc8edc.jpg" alt="foto do gato de terno">
+        <img class="estudante-imagem" src="https://i.pinimg.com/236x/be/8a/53/be8a5318c2b4ad8b3595dd8676cc8edc.jpg" alt="image" heigh="250" width="250">>
         <h3 class="estudante-nome">Baiano</h3>
-        <img class="estudante-icone" src="github.png" alt="icone github">
-        <img class="estudante-icone" src="linkedin.png" alt="icone linkedin">
-        <img class="estudante-icone" src="instagram.png" alt="icone instagram">
+        <img class="estudante-icone" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLVJvZ8RfjSEGlYfo6hBL8AY7gbRUZN2X2A&usqp=CAU" alt="image" heigh="20" width="20">
+        <img class="estudante-icone" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSj02O0hBguSU7gaJaBOUkzo58TVtTdZ_KOA&usqp=CAU" alt="image" heigh="20" width="20">
+        <img class="estudante-icone" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVmAUoArGCLFndduGtYf2cuZ1oiGGZYuFffA&usqp=CAU" alt="image" heigh="20" width="20">
     </div>
     <div class="estudante-div">
-        <img class="estudante-imagem" src="https://i.pinimg.com/236x/92/50/4f/92504f11bcf364b43441d03a26494440.jpg" alt="foto do gato saia">
+        <img class="estudante-imagem" src="https://i.pinimg.com/236x/92/50/4f/92504f11bcf364b43441d03a26494440.jpg" alt="image" heigh="250" width="250">
         <h3 class="estudante-nome">Ludmila</h3>
-        <img class="estudante-icone" src="github.png" alt="icone github">
-        <img class="estudante-icone" src="linkedin.png" alt="icone linkedin">
-        <img class="estudante-icone" src="instagram.png" alt="icone instagram">
+        <img class="estudante-icone" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLVJvZ8RfjSEGlYfo6hBL8AY7gbRUZN2X2A&usqp=CAU" alt="image" heigh="20" width="20">
+        <img class="estudante-icone" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSj02O0hBguSU7gaJaBOUkzo58TVtTdZ_KOA&usqp=CAU" alt="image" heigh="20" width="20">
+        <img class="estudante-icone" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVmAUoArGCLFndduGtYf2cuZ1oiGGZYuFffA&usqp=CAU" alt="image" heigh="20" width="20">
     </div>
     <div class="estudante-div">
-        <img class="estudante-imagem" src="https://i.pinimg.com/originals/f4/2a/56/f42a567871329cf944a9eadccb0d41d7.jpg" alt="foto do gabrael">
+        <img class="estudante-imagem" src="https://i.pinimg.com/originals/f4/2a/56/f42a567871329cf944a9eadccb0d41d7.jpg" alt="image" heigh="250" width="250">
         <h3 class="estudante-nome">Gabrael</h3>
-        <img class="estudante-icone" src="github.png" alt="icone github">
-        <img class="estudante-icone" src="linkedin.png" alt="icone linkedin">
-        <img class="estudante-icone" src="instagram.png" alt="icone instagram">
+        <img class="estudante-icone" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLVJvZ8RfjSEGlYfo6hBL8AY7gbRUZN2X2A&usqp=CAU" alt="image" heigh="20" width="20">
+        <img class="estudante-icone" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSj02O0hBguSU7gaJaBOUkzo58TVtTdZ_KOA&usqp=CAU" alt="image" heigh="20" width="20">
+        <img class="estudante-icone" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVmAUoArGCLFndduGtYf2cuZ1oiGGZYuFffA&usqp=CAU" alt="image" heigh="20" width="20">
     </div>
     <span></span>
     <span></span>
     <div class="estudante-div">
-        <img class="estudante-imagem" src="https://i.pinimg.com/550x/44/7c/8f/447c8f10b7596afd0f3138cad72e0752.jpg" alt="foto da schulz">
+        <img class="estudante-imagem" src="https://i.pinimg.com/550x/44/7c/8f/447c8f10b7596afd0f3138cad72e0752.jpg" alt="image" heigh="250" width="250">
         <h3 class="estudante-nome">Schulz</h3>
-        <img class="estudante-icone" src="github.png" alt="icone github">
-        <img class="estudante-icone" src="linkedin.png" alt="icone linkedin">
-        <img class="estudante-icone" src="instagram.png" alt="icone instagram">
+        <img class="estudante-icone" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLVJvZ8RfjSEGlYfo6hBL8AY7gbRUZN2X2A&usqp=CAU" alt="image" heigh="20" width="20">
+        <img class="estudante-icone" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSj02O0hBguSU7gaJaBOUkzo58TVtTdZ_KOA&usqp=CAU" alt="image" heigh="20" width="20">
+        <img class="estudante-icone" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVmAUoArGCLFndduGtYf2cuZ1oiGGZYuFffA&usqp=CAU" alt="image" heigh="20" width="20">
     </div>
     <div class="estudante-div">
-        <img class="estudante-imagem" src="https://i.pinimg.com/736x/2d/cf/75/2dcf75eadabde959a1420457999bcfb3.jpg" alt="foto da alana">
+        <img class="estudante-imagem" src="https://i.pinimg.com/736x/2d/cf/75/2dcf75eadabde959a1420457999bcfb3.jpg" alt="image" heigh="250" width="250">
         <h3 class="estudante-nome">Alana</h3>
-        <img class="estudante-icone" src="github.png" alt="icone github">
-        <img class="estudante-icone" src="linkedin.png" alt="icone linkedin">
-        <img class="estudante-icone" src="instagram.png" alt="icone instagram">
+        <img class="estudante-icone" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLVJvZ8RfjSEGlYfo6hBL8AY7gbRUZN2X2A&usqp=CAU" alt="image" heigh="20" width="20">
+        <img class="estudante-icone" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSj02O0hBguSU7gaJaBOUkzo58TVtTdZ_KOA&usqp=CAU" alt="image" heigh="20" width="20">
+        <img class="estudante-icone" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVmAUoArGCLFndduGtYf2cuZ1oiGGZYuFffA&usqp=CAU" alt="image" heigh="20" width="20">
     </div>
     <div class="estudante-div">
-        <img class="estudante-imagem" src="https://i.pinimg.com/236x/f4/2a/56/f42a567871329cf944a9eadccb0d41d7.jpg" alt="foto do pigas">
+        <img class="estudante-imagem" src="https://i.pinimg.com/236x/f4/2a/56/f42a567871329cf944a9eadccb0d41d7.jpg" alt="image" heigh="250" width="250">
         <h3 class="estudante-nome">Pig</h3>
-        <img class="estudante-icone" src="github.png" alt="icone github">
-        <img class="estudante-icone" src="linkedin.png" alt="icone linkedin">
-        <img class="estudante-icone" src="instagram.png" alt="icone instagram">
+        <img class="estudante-icone" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLVJvZ8RfjSEGlYfo6hBL8AY7gbRUZN2X2A&usqp=CAU" alt="image" heigh="20" width="20">
+        <img class="estudante-icone" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSj02O0hBguSU7gaJaBOUkzo58TVtTdZ_KOA&usqp=CAU" alt="image" heigh="20" width="20">
+        <img class="estudante-icone" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVmAUoArGCLFndduGtYf2cuZ1oiGGZYuFffA&usqp=CAU" alt="image" heigh="20" width="20">
     </div>
     </div>
    </section>
    <footer class="rodape">
-    <img class="rodape-imagem" src="skyfall.png" alt="logo da sky">
+    <img class="rodape-imagem" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuoTPfOw_Dc8uehw-g6jo4B5266yfJ2gSEcw&usqp=CAUC" alt="image" heigh="30" width="30">
    </footer>
 </body>
 </html>
